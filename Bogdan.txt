@@ -1,1 +1,3 @@
-Bogdan invata GIT
+Bogdan invata GIT.
+
+Acum modifica acest fisier.
