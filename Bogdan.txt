@@ -3,3 +3,5 @@ Bogdan invata GIT.
 Acum modifica acest fisier.
 
 Reeditez.
+
+This is a test document. I am still using it.
